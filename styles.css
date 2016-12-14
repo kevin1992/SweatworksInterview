@@ -27,3 +27,9 @@ html, body {
 .buttons-holder {
 	float: right;
 }
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
